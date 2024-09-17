@@ -1,4 +1,4 @@
----
+-----
 applications:
 - name: medicalAppointmentSystem
   instances: 1
